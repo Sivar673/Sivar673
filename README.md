@@ -1,188 +1,89 @@
-# Hello!👋
+<h1 align="center">Rithish Sivakumar</h1>
+
+<h3 align="center">Computer Science Student | SWE & Applied AI</h3>
+
+<p align="center">
+  <a href="mailto:sivar@ad.unc.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/rithishsivakumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sivar673">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a third-year student pursuing a double major in Computer Science and Statistics at the University of North Carolina at Chapel Hill[cite: 1]. My technical foundation lies in designing scalable backend infrastructure and autonomous ML evaluation frameworks[cite: 1]. 
+
+My career trajectory is firmly rooted in Applied AI and Software Engineering (SWE), with a long-term aspiration of driving enterprise technical leadership as a Chief Technology Officer. I prioritize engineering rigor and architectural tradeoffs, whether I am building real-time data ingestion pipelines or deploying robust AI orchestration tools. Outside of enterprise software, I apply data engineering to sports science, actively building and scaling platforms for online men's physique coaching.
 
 <div align="center">
-
-**Applied AI Engineer | Backend Systems Builder | Technical Leader in Progress**
-
-Building production-grade AI systems and scalable backends that ship. Passionate about autonomous evaluation, ML-Ops infrastructure, and the intersection of sports science & data engineering.
-
-[📧 sivar@ad.unc.edu](mailto:sivar@ad.unc.edu) • [🔗 LinkedIn](https://linkedin.com/in/rithishsivakumar) • [🐙 GitHub](https://github.com/Sivar673)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivar673&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivar673&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects & Ventures
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivar673&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivar673&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 About Me
-
-I'm an **Applied AI & Systems Engineer** with a proven track record of shipping production-ready systems that drive measurable impact. Currently building automated red-teaming agents at **SAS** as an Applied AI & Modeling Intern, focusing on autonomous evaluation frameworks integrated into ML-Ops pipelines.
-
-My technical foundation spans **backend infrastructure**, **AI/ML systems**, and **full-stack product development**. I'm deeply interested in the intersection of **sports science**, **strength training data**, and **data engineering**—currently applying these insights to build an online coaching platform.
-
-**Core Strengths:**
-- ✨ Designing & deploying production AI systems (evaluation, orchestration, red-teaming)
-- 🚀 Building scalable backend systems (real-time processing, 30min → 15sec latency improvements)
-- 🛠️ Full-stack product development (mobile apps, APIs, databases)
-- 📈 Driving measurable impact (2.5x traffic growth, 200+ user support, 100+ professional presentations)
-
-**Currently Pursuing:** BS in Computer Science & Statistics @ UNC Chapel Hill (Expected May 2028)
-
----
-
-## 🌟 Featured Projects
-
-### **Titan Metrics** — Live Coaching Platform
-<div align="center">
-
-**Full-Stack Mobile Application for Online Bodybuilding Coaching**
-
-Your live app will be here 👇
-
-**[→ Launch Titan Metrics](INSERT_APP_URL_HERE)**
-
-</div>
-
-An end-to-end coaching platform automating fitness progression tracking and client management.
-
-| Component | Technology |
-|-----------|-----------|
-| **Backend** | Python, FastAPI |
-| **Database** | SQLite |
-| **Frontend** | Next.js |
-| **Key Features** | Real-time progress tracking, automated insights, coaching dashboard |
-
-**Impact:** Powering autonomous online coaching with automated progression analytics and client retention.
-
----
-
-### **RAD** — Real-Time Financial Risk Backend
-*Autonomous Risk Assessment & Data Pipeline*
-
-A high-performance backend for financial risk modeling that reduced processing latency from **30 minutes to 15 seconds**.
-
-| Component | Technology |
-|-----------|-----------|
-| **API Framework** | FastAPI |
-| **Real-Time Communication** | WebSockets |
-| **Data Warehouse** | Snowflake |
-| **Performance Gain** | **98% latency reduction** |
-
-**Impact:** Enabled real-time risk assessments for financial modeling workflows, cutting decision-making latency dramatically.
-
----
-
-### **Iron Insight MCP** — AI-Powered Workout Analytics
-*Fast-MCP Server for Sports Science Insights*
-
-A local Model Context Protocol (MCP) server enabling AI assistants to query workout logs and generate evidence-based sports science insights.
-
-| Component | Technology |
-|-----------|-----------|
-| **Protocol** | Fast-MCP (Python) |
-| **Database** | SQLite |
-| **Integration** | AI Assistants (Claude, etc.) |
-| **Use Case** | Autonomous workout analysis & progression planning |
-
-**Impact:** Bridging AI capabilities with fitness data to deliver intelligent coaching recommendations.
+| Project | Tech Stack | Architecture & Impact |
+| :--- | :--- | :--- |
+| 🏋️ **[Titan Metrics](INSERT_APP_URL_HERE)**<br/>*Live App Spotlight* | Python, FastAPI, SQLite, Next.js[cite: 1] | A full-stack mobile platform structured for online Men's Physique coaching[cite: 1]. Engineered data pipelines to process weekly fitness metrics, fully automating user progression tracking for 10+ active clients[cite: 1]. |
+| 📈 **RAD (Real-Time Risk Analysis)** | Python, FastAPI, WebSockets, Snowflake[cite: 1] | Designed a real-time backend evaluating 10,000+ simulated financial positions[cite: 1]. Leveraged WebSockets to cut processing time from 30 minutes down to 15 seconds[cite: 1]. |
+| 🧠 **Iron Insight MCP** | Python, Fast-MCP, SQLite[cite: 1] | Architected an MCP server enabling natural language AI assistants to query SQLite workout logs[cite: 1]. Built pandas data pipelines transforming hypertrophy metrics into actionable insights[cite: 1]. |
 
 ---
 
 ## 💼 Professional Experience
 
-### **Applied AI & Modeling Intern** | SAS Institute
-*Current Role*
-- Building automated red-teaming agents integrated into ML-Ops pipelines
-- Designing autonomous evaluation frameworks for production AI systems
-- Focus: Scalable, production-grade AI infrastructure
+### **Applied AI and Modeling Intern | SAS** (May 2026 - Present)[cite: 1]
+* Engineered an automated red-teaming agent and integrated it directly into the ML-Ops (CI) pipeline, reducing production time by 80%[cite: 1].
+* Developed a dynamic evaluation engine that autonomously synthesizes 100+ tailored adversarial attacks, uncovering 25% more edge-case vulnerabilities compared to static baselines[cite: 1].
+* Architected a continuous testing infrastructure mapping 94+ threat vectors across subagents to ensure comprehensive AI safety visibility[cite: 1].
 
-### **Software Engineer Intern** | AATEK GmbH, Frankfurt
-- Architected offline AI orchestration systems for robotics
-- Presented technical work to 100+ professionals at Automatica 2025
-- Tech: Python, ROS, Docker
+### **IT Technician | UNC School of Medicine** (Aug 2025 - May 2026)[cite: 1]
+* Delivered targeted remote and in-person support to 200+ users per semester, accelerating overall incident response times[cite: 1].
+* Diagnosed 50+ complex system errors and provided comprehensive error-tracing reports to senior engineers to drive infrastructure fixes[cite: 1].
 
-### **IT Technician** | UNC School of Medicine
-- Accelerated incident response times for 200+ users
-- Managed systems supporting healthcare operations
+### **Software Engineer Intern | AATEK Gmbh** (May 2025 - Aug 2025)[cite: 1]
+* Built an offline AI orchestration system enabling natural language control of 15+ robotic lab functions, presenting the production-ready architecture to 100+ professionals at Automatica 2025[cite: 1].
+* Developed an autonomous multi-robot synchronization framework, integrating a real-time computer vision pipeline (92% accuracy) with Agentic AI modules[cite: 1].
+* Designed highly reliable edge-computing infrastructure utilizing Whisper and Ollama, optimizing LLM quantization for speed and deploying Prometheus for telemetry[cite: 1].
 
-### **President & Full-Stack Builder** | Digital Empowerment Club, UNC
-- Directed product strategy from concept to launch
-- Achieved 2.5x traffic growth through strategic feature development
-- Led team of engineers shipping multiple iterations
+### **President | Digital Empowerment Club** (Oct 2024 - May 2025)[cite: 1]
+* Directed full-stack product strategy and orchestrated the complete SDLC for concurrent projects[cite: 1].
+* Drove a 2.5x traffic increase via programmatic SEO and accelerated Next.js MVP deliveries to under 14 days[cite: 1].
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[cite: 1]
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)[cite: 1]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)[cite: 1]
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)[cite: 1]
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)[cite: 1]
 
-### **AI/ML & Infrastructure**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**AI, Machine Learning & Robotics**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)[cite: 1]
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)[cite: 1]
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)[cite: 1]
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)[cite: 1]
 
-### **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+**Backend & Data**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)[cite: 1]
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)[cite: 1]
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)[cite: 1]
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)[cite: 1]
 
-### **Cloud & DevOps**
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-success?style=for-the-badge)
-
-### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### **Robotics & Systems**
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science & Statistics**  
-University of North Carolina at Chapel Hill  
-*Expected Graduation: May 2028*
-
----
-
-## 📈 Key Metrics & Impact
-
-- 🎯 **98% latency reduction** on financial risk modeling (RAD project)
-- 📊 **2.5x traffic growth** driving product adoption (Digital Empowerment Club)
-- 🌍 **100+ professionals** reached through technical presentations
-- 👥 **200+ users** supported with accelerated incident response
-- 🤖 **Production AI systems** deployed and scaling
-
----
-
-## 🤝 Connect With Me
-
-I'm always interested in discussing **AI systems**, **backend architecture**, **ML-Ops infrastructure**, and the intersection of **sports science & data engineering**.
-
-- 📧 **Email:** [sivar@ad.unc.edu](mailto:sivar@ad.unc.edu)
-- 💼 **LinkedIn:** [linkedin.com/in/rithishsivakumar](https://linkedin.com/in/rithishsivakumar)
-- 🐙 **GitHub:** [github.com/Sivar673](https://github.com/Sivar673)
-
----
-
-<div align="center">
-
-**Building the future of AI infrastructure, one system at a time.**
-
-*Last updated: 2025 | Always learning, always shipping* 🚀
-
-</div>
+**Infrastructure & Web**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)[cite: 1]
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)[cite: 1]
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)[cite: 1]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)[cite: 1]

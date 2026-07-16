@@ -33,7 +33,7 @@ My career trajectory is firmly rooted in Applied AI and Software Engineering (SW
 
 | Project | Tech Stack | Architecture & Impact |
 | :--- | :--- | :--- |
-| 🏋️ **[Titan Metrics](INSERT_APP_URL_HERE)**<br/>*Live App Spotlight* | Python, FastAPI, SQLite, Next.js  | A full-stack mobile platform structured for online Men's Physique coaching . Engineered data pipelines to process weekly fitness metrics, fully automating user progression tracking for 10+ active clients . |
+| 🏋️ **[Titan Metrics](https://titan-metrics-n8whs5lzl-rit7.vercel.app/login)**<br/>*Live App Spotlight* | Python, FastAPI, SQLite, Next.js  | A full-stack mobile platform structured for online Men's Physique coaching . Engineered data pipelines to process weekly fitness metrics, fully automating user progression tracking for 10+ active clients . |
 | 📈 **RAD (Real-Time Risk Analysis)** | Python, FastAPI, WebSockets, Snowflake  | Designed a real-time backend evaluating 10,000+ simulated financial positions . Leveraged WebSockets to cut processing time from 30 minutes down to 15 seconds . |
 | 🧠 **Iron Insight MCP** | Python, Fast-MCP, SQLite  | Architected an MCP server enabling natural language AI assistants to query SQLite workout logs . Built pandas data pipelines transforming hypertrophy metrics into actionable insights . |
 
